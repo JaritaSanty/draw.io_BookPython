@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T22:25:16.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="QjIHpnCtJ3ytV-0RT3H8" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-20T23:19:55.930Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="XWZlxcwofzX8R009jfEl" version="20.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1105" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,15 @@
             <mxPoint x="390" y="490" as="sourcePoint" />
             <mxPoint x="420" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WFkyg6M9yWIxy-Qecz14-11" value="&lt;div style=&quot;font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Menlo for Powerline&amp;quot;, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(127, 132, 142); font-style: italic;&quot;&gt;Declaracion de variables e ingreso de datos&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="120" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WFkyg6M9yWIxy-Qecz14-12" value="&lt;div style=&quot;font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Menlo for Powerline&amp;quot;, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(127, 132, 142); font-style: italic;&quot;&gt;Desarrollo de operaciones&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="180" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WFkyg6M9yWIxy-Qecz14-13" value="&lt;div style=&quot;font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Menlo for Powerline&amp;quot;, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(127, 132, 142); font-style: italic;&quot;&gt;Mostrar resultados al usuario&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="245" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
