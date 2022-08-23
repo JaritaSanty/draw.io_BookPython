@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T20:28:55.105Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" version="20.2.6" etag="CW8KF0eU0BQiPglDfJ9x" type="github"><diagram id="yNInK_Zb1l1hQLIShKUr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-23T23:05:22.421Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="eTfmr13nEUhJRaxl1rk6" version="20.2.6" type="github">
+  <diagram id="yNInK_Zb1l1hQLIShKUr" name="Page-1">
+    <mxGraphModel dx="896" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tA-5QjQRkhBDFOXrscgm-1" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tA-5QjQRkhBDFOXrscgm-2" value="&lt;div style=&quot;text-align: start;&quot;&gt;precio_cachorros&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;precio_adultos&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tA-5QjQRkhBDFOXrscgm-3" value="precio_total_mes" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.21413051060267857;" vertex="1" parent="1">
+          <mxGeometry x="150" y="375" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="tA-5QjQRkhBDFOXrscgm-4" value="Fin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tA-5QjQRkhBDFOXrscgm-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tA-5QjQRkhBDFOXrscgm-1" target="tA-5QjQRkhBDFOXrscgm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="186" y="400" as="sourcePoint" />
+            <mxPoint x="210" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tA-5QjQRkhBDFOXrscgm-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tA-5QjQRkhBDFOXrscgm-2" target="tA-5QjQRkhBDFOXrscgm-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="356" y="260" as="sourcePoint" />
+            <mxPoint x="210" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tA-5QjQRkhBDFOXrscgm-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tA-5QjQRkhBDFOXrscgm-3" target="tA-5QjQRkhBDFOXrscgm-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="186" y="640" as="sourcePoint" />
+            <mxPoint x="216" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tA-5QjQRkhBDFOXrscgm-8" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Menlo for Powerline&amp;quot;, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(127, 132, 142); font-style: italic;&quot;&gt;Declaración de variables e ingrese de datos&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tA-5QjQRkhBDFOXrscgm-9" value="&lt;div style=&quot;font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Menlo for Powerline&amp;quot;, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(127, 132, 142); font-style: italic;&quot;&gt;Mostrar resultados al usuario&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="382.5" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tA-5QjQRkhBDFOXrscgm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tA-5QjQRkhBDFOXrscgm-15" target="tA-5QjQRkhBDFOXrscgm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tA-5QjQRkhBDFOXrscgm-11" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;kg_adultos_g = (10*(450*30))/1000&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;kg_adultos_m = (12*(380*30))/1000&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;kg_adultos = kg_adultos_g + kg_adultos_m&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;kg_cachorros = (6*(230*30))/1000&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="78.75" y="160" width="262.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tA-5QjQRkhBDFOXrscgm-12" value="&lt;div style=&quot;font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Menlo for Powerline&amp;quot;, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(127, 132, 142); font-style: italic;&quot;&gt;Desarrollo de operaciones&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="235" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tA-5QjQRkhBDFOXrscgm-15" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font size=&quot;2&quot;&gt;precio_mes_adultos = precio_adultos * kg_adultos&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: small;&quot;&gt;precio_mes_cachorros = precio_cachorros * kg_cachorros&lt;/span&gt;&lt;font size=&quot;2&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: small;&quot;&gt;precio_total_mes = precio_mes_adultos + precio_mes_cachorros&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8.75" y="275" width="402.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="tA-5QjQRkhBDFOXrscgm-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tA-5QjQRkhBDFOXrscgm-11" target="tA-5QjQRkhBDFOXrscgm-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="150" as="sourcePoint" />
+            <mxPoint x="220" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
